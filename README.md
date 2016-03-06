@@ -13,3 +13,7 @@
     $ mv options.txt dvorak-options.txt
     $ perl convert.pl dvorak2qwerty < dvorak-options.txt > options.txt
     ```
+
+## LICENSE
+
+MIT
